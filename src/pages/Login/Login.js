@@ -36,3 +36,21 @@
 // }
 
 // export default Login
+// New.jsx
+// const React = require('react');
+// class Login extends React.Component {
+//     render () {
+//         return(
+//         <div>
+//             <h1>Kingdom Sign In </h1>
+//             <form action="/fruits" method="POST">
+//                 Name: <input type="text" name="name" /><br />
+//                 Email: <input type="text" name="color" /><br/>
+//                 Do you have a login: <input type='checkbox' name="readyToEat" /><br/>
+//                 <input type='submit' name="" value="Create Login" />
+//             </form>
+//         </div>
+//     );
+// }
+// }
+// module.exports = Login;
